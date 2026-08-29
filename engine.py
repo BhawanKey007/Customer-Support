@@ -29,15 +29,15 @@ TICKET_KEYWORDS = ["ticket", "issue", "bug", "access", "not working", "request",
 
 USE_CASES = {
     "order": {
-        "label": "\ud83d\udce6 Order status",
+        "label": "\U0001F4E6 Order status",
         "example": "Where is my order? Has it shipped yet?",
     },
     "refund": {
-        "label": "\ud83d\udcb8 Refund status",
+        "label": "\U0001F4B8 Refund status",
         "example": "What's the status of my refund?",
     },
     "ticket": {
-        "label": "\ud83c\udfab Support ticket status",
+        "label": "\U0001F3AB Support ticket status",
         "example": "Any update on my support ticket?",
     },
 }
